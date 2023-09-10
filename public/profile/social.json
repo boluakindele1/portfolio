@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/boluakindele1/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/boluakindele1"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:boluakindele03@gmail.com"
+        }
+    ]
+}

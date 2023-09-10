@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "August 2021 - May 2025",
+            "cardTitle": "Bacher of Science in Computer Science",
+            "cardSubtitle":"Murray State University, Murray, KY",
+            "cardDetailedText": "GPA - 3.95",
+            "icon" : {
+                "src": "images/education/murray.png"
+            }
+        },
+        {
+            "title": "August 2017 - May 2021",
+            "cardTitle": "Male High School",
+            "cardSubtitle":"Louisville, KY",
+            "icon" : {
+                "src": "images/education/male.png"
+            }
+            
+        }
+    ]
+}

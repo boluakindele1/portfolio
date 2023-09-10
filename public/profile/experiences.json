@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "title": "Software Development Intern",
+            "subtitle": "Tyler Technologoies",
+            "workType": "Full-time",
+            "workDescription": [
+                " Collaborated with engineers to implement indexing and query optimization techniques to boost data retrieval speed by 15%",
+                " Utilized JavaScript and AJAX to make asynchronous HTTP requests to the backend, updating data and retrieving information, resulting in a 20-second reduction in page load times.",
+                " Redesigned the API Schema of the backend repository, streamlining endpoint calls for developers, and enhanced the organization of the codebase",
+                "Created and maintained a suite of Cypress tests covering critical user workflows, resulting in a 22% reduction in manual testing efforts. "
+            ],
+            "dateText": "05/15/2023 – Present"
+        }
+     
+       
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/movie.jpg",
+            "title": "Movie Review",
+            "bodyText": "- web-based movie review platform that Integrated with the IMDb API to fetch comprehensive movie data.\n - Users can seamlessly explore films, contribute their insightful reviews, and access user-generated critiques.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/movie-web"
+                },
+                {
+                    "text": "Demonstration",
+                    "href": "https://youtu.be/QuRZoTl4ZDQ"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Java",
+                "MongoDB",
+                "Spring Boot"
+            ]
+        },
+        {
+            "image" : "images/projects/news.jpg",
+            "title": "News App",
+            "bodyText": "- Created a News Aggregator mobile application using Java and Android Studio \n -  Leveraged the News API to fetch and display recent news articles, ensuring efficient retrieval and display of over 300 articles separated by category .",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://play.google.com/store/apps/details?id=nn.newsapp.news&raii=nn.newsapp.news&pli=1"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android Studio",
+                "news API"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/chatbot.jpeg",
+            "title": "Chatbot App",
+            "bodyText": "- An Android App that AI chatbot integrating OpenAI’s API, allowing for natural language understanding to enable interactive and dynamic conversations\n - Implemented real-time message handling and Demonstrated proficiency in asynchronous programming, error handling,and API integration for a practical application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/Chatbot"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android Studio",
+                "OpenAI API"
+            ]
+        },
+        {
+            "title": "Book Management",
+            "bodyText": "-  MVC-based CRUD Book Management System using Spring Boot Data JPA and MySQL, automating schema updates with Hibernate, and enabling efficient data management and retrieval.\n - Designed dynamic and user-friendly front-end interfaces with HTML, CSS, and Thymeleaf, ensuring a responsive user  experience and seamless interaction with the backend.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/Book_management"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "MySQL",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Flappy Bird",
+            "bodyText": "-  Java-based Flappy Bird game using the Swing library.\n - U Implemented game mechanics such as bird movement, column generation, collision detection, and scoring. \n -.Utilized event listeners to handle user input from the mouse and space bar.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/Flappybird"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Swing Library"
+                
+            ]
+        },
+        {
+            "title": "Disney Plus Clone",
+            "bodyText": "- A clone of Disney Plus, a popular streaming platform.\n - Designed and implemented a carousel to showcase featured content and utilized video cards to display various movie and TV show options.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://disneypluscloneweb.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Student Records",
+            "bodyText": "- Program that serves as a record of students. Input is read in from a file and from there a user can perform various operations on it.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/Student-Records/tree/main"
+                }
+            ],
+            "tags" : [
+                "Java"
+            ]
+        },
+        {
+            "title": "Tic-Tac-Toe",
+            "bodyText": "- Tic Tac Toe is a classic two-player game where players take turns making X and O symbols in order to get three in arrow. This program allows you to play against the CPU.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/boluakindele1/Tic-Tac-Toe"
+                }
+            ],
+            "tags" : [
+                "C#"
+            ]
+        }
+    ]
+}
